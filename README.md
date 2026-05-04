@@ -32,9 +32,3 @@ Using **FFlags that are not on the allow list** may trigger anti‑cheat systems
 
 - Windows 10 / 11
 - Roblox Player (running)
-
-## 📦 Building from Source
-
-```bash
-pip install -r requirements.txt
-python FFlag_injector.py
